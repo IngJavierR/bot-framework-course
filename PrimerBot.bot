@@ -1,0 +1,15 @@
+{
+    "name": "PrimerBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "1d943ce0-9dd1-11e8-8a14-718b6f901784",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
